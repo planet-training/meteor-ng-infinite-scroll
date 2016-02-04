@@ -1,0 +1,3 @@
+[submodule "ngInfiniteScroll"]
+	path = ngInfiniteScroll
+	url = https://github.com/sroze/ngInfiniteScroll.git
