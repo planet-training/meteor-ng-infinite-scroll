@@ -1,6 +1,6 @@
 Package.describe({
   name: 'planettraining:ng-infinite-scroll',
-  version: '1.2.2_1',
+  version: '1.2.1',
   // Brief, one-line summary of the package.
   summary: 'ngInfiniteScroll packaged for meteor',
   // URL to the Git repository containing the source code for this package.
